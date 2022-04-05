@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gizaw1
+- 👋 Hi, I’m gizaw
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently working as an ICT Director
 - 💞️ I’m looking to collaborate on security development
