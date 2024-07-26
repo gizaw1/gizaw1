@@ -1,4 +1,4 @@
-- 👋 Hi, I’m gizaw
+- 👋 Hi, I’m Zewengel Tilahun Gizaw
 - 👀 I’m interested in cybersecurity
 - 🌱 I’m currently working as an ICT Director
 - 💞️ I’m looking to collaborate on security development
